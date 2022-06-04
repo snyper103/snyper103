@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Gabriel A. S. Braga, estudante de Engenharia de Computação na UTFPR
+## 👋 Olá! Eu sou o Gabriel A. S. Braga, estudante de Engenharia de Computação na UTFPR-TD
 
 <div align="center">
   <a href="https://github.com/snyper103">
