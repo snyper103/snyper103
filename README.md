@@ -13,7 +13,6 @@
   <img align="center" alt="Gab-Latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   <img align="center" alt="Gab-MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
   <img align="center" alt="Gab-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Gab-NarutoGif" height="150" style="border-radius:50px;" src="https://c.tenor.com/d6ab-moc35wAAAAC/naruto-eat.gif">
 </div>
   
   ##
