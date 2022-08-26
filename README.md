@@ -1,4 +1,22 @@
-## 👋 Olá! Eu sou o Gabriel A. S. Braga, estudante de Engenharia de Computação na UTFPR-TD
+## 👋 Olá! Eu sou o Gabriel A. S. Braga
+Estudante de engenharia da computação na UTFPR de Toledo. Na UTFPR fiz vários trabalhos voluntários, como monitor de programação, onde ajudei uma média de 60 alunos mensalmente durante um período de 6 meses. Além disso, fui tesoureiro do centro acadêmico do meu curso. Também fiz iniciação científica, focado na área de sistemas eletrônicos de medida e de controle, para uma micro-rede inteligente baseada em fontes renováveis de energia. Por fim, participei da maratona de programação SBC, ficando em 5° lugar na regional (PR), no ano de 2020. Atualmente estou no 9° período do curso, faltando apenas 2 semestres para minha formatura.
+ 
+Competências:
+  * Domínio das linguagens de programação C, C++, C# e Python.
+  * Estrutura de dados e Programação orientada a objetos.
+  * Banco de dados (PostgreSQL).
+  * Sistemas embarcados (C e Assembly).
+  * Métodos Ágeis (Kanban e Scrum).
+  * Ferramenta de versionamento (Git). 
+ 
+Soft Skills:
+  * Boa oratória.
+  * Organizado.
+  * Simpático.
+  * Disciplinado.
+  * Esforçado.
+ 
+Gosto muito de aprender coisas novas, e fico entusiasmado com as oportunidades em que posso trabalhar com pessoas altamente criativas, e com boas práticas de programação, para o desenvolvimento de softwares inovadores. Além disso, também gosto bastante de fazer análises de desempenho e otimização nos softwares após serem feitos.
 
 <div align="center">
   <a href="https://github.com/snyper103">
