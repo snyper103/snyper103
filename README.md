@@ -4,6 +4,7 @@ Estudante de engenharia da computação na UTFPR de Toledo. Na UTFPR fiz vários
 Competências:
   * Domínio das linguagens de programação C, C++, C# e Python.
   * Estrutura de dados e Programação orientada a objetos.
+  * Back-End framework (Django).
   * Banco de dados (PostgreSQL).
   * Sistemas embarcados (C e Assembly).
   * Métodos Ágeis (Kanban e Scrum).
