@@ -1,23 +1,20 @@
 ## 👋 Olá! Eu sou o Gabriel A. S. Braga
-Estudante de engenharia da computação na UTFPR de Toledo. Na UTFPR fiz vários trabalhos voluntários, como monitor de programação, onde ajudei uma média de 60 alunos mensalmente durante um período de 6 meses. Além disso, fui tesoureiro do centro acadêmico do meu curso. Também fiz iniciação científica, focado na área de sistemas eletrônicos de medida e de controle, para uma micro-rede inteligente baseada em fontes renováveis de energia. Por fim, participei da maratona de programação SBC, ficando em 5° lugar na regional (PR), no ano de 2020. Atualmente estou no 9° período do curso, faltando apenas 2 semestres para minha formatura.
+A graduate in Computer Engineering from UTFPR in Toledo, I possess a strong background in back-end development, combined with an unceasing passion for learning and innovation.
+
+My academic journey was marked by leadership, research, and dedication to programming. I highlight my experience in the SBC Programming Marathon, where I achieved the honor of 5th place in the Paraná regional in 2020.
+
+At Axur, as a back-end developer, I delved into challenging projects that allowed me to refine my skills in API integration, performance analysis, micro-service construction and deployment, and system optimization. Always committed to best practices, I incorporate design patterns, DDD, and TDD into my solutions.
+
+Hard skills:
+  * Languages: C, C++, C#, Python, Java.
+  * Frameworks: Django, Apache Spark, Spring Framework.
+  * Databases: PostgreSQL, MySQL.
+  * Methodologies: Agile (Kanban, Scrum), TDD, DDD.
+  * Tools: Git, Docker, Jenkins, SonarQube, AWS.
  
-Competências:
-  * Domínio das linguagens de programação C, C++, C# e Python.
-  * Estrutura de dados e Programação orientada a objetos.
-  * Back-End framework (Django).
-  * Banco de dados (PostgreSQL).
-  * Sistemas embarcados (C e Assembly).
-  * Métodos Ágeis (Kanban e Scrum).
-  * Ferramenta de versionamento (Git). 
- 
-Soft Skills:
-  * Boa oratória.
-  * Organizado.
-  * Simpático.
-  * Disciplinado.
-  * Esforçado.
- 
-Gosto muito de aprender coisas novas, e fico entusiasmado com as oportunidades em que posso trabalhar com pessoas altamente criativas, e com boas práticas de programação, para o desenvolvimento de softwares inovadores. Além disso, também gosto bastante de fazer análises de desempenho e otimização nos softwares após serem feitos.
+Beyond my technical proficiency, I emphasize essential soft skills such as effective communication, organization, and teamwork, pillars that underpin my professional growth.
+
+I am constantly on the lookout for new challenges that allow me to collaborate with innovative minds and contribute to cutting-edge solutions. I have a strong interest in performance analysis and optimization, always striving to maximize the efficiency of the software I develop.
 
 <div align="center">
   <a href="https://github.com/snyper103">
