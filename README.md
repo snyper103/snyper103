@@ -1,20 +1,23 @@
 ## 👋 Olá! Eu sou o Gabriel A. S. Braga
-A graduate in Computer Engineering from UTFPR in Toledo, I possess a strong background in back-end development, combined with an unceasing passion for learning and innovation.
+I am a Computer Engineering graduate from UTFPR with solid experience in back-end software development. I am focused on building robust and efficient solutions. During my journey at Axur, I honed my skills in API integration, microservices deployment, and system optimization, applying design patterns, DDD, and TDD to deliver high-quality, scalable software.
 
-My academic journey was marked by leadership, research, and dedication to programming. I highlight my experience in the SBC Programming Marathon, where I achieved the honor of 5th place in the Paraná regional in 2020.
+My academic path was characterized by leadership and research initiatives, including mentoring in programming fundamentals and scientific research on digital controls for microgrids. In 2020, I also achieved 8th place in the SBC Programming Marathon regional competition in Paraná.
 
-At Axur, as a back-end developer, I delved into challenging projects that allowed me to refine my skills in API integration, performance analysis, micro-service construction and deployment, and system optimization. Always committed to best practices, I incorporate design patterns, DDD, and TDD into my solutions.
+My key competencies include:
+* Programming Languages: Java, Kotlin, Python, C, C++, C#.
+* Frameworks: Spring, Spark, Django.
+* SQL Databases: MySQL, PostgreSQL. 
+* NoSQL Databases: MongoDB, Redis, Elasticsearch.
+* Tools & Technologies: Docker, Jenkins, SonarQube, Liquibase.
+* Methodologies: Agile (Kanban, Scrum), TDD, DDD.
+* Version Control: Git.
+* Observability: Datadog, Grafana.
+* Message Broker: RabbitMQ.
+* Cloud: AWS (RDS, EC2, ECS, SQS, CloudFormation, ElastiCache, etc).
 
-Hard skills:
-  * Languages: C, C++, C#, Python, Java.
-  * Frameworks: Django, Apache Spark, Spring Framework.
-  * Databases: PostgreSQL, MySQL.
-  * Methodologies: Agile (Kanban, Scrum), TDD, DDD.
-  * Tools: Git, Docker, Jenkins, SonarQube, AWS.
- 
-Beyond my technical proficiency, I emphasize essential soft skills such as effective communication, organization, and teamwork, pillars that underpin my professional growth.
+In addition to my technical expertise, I value essential soft skills such as effective communication, teamwork, and organization.
 
-I am constantly on the lookout for new challenges that allow me to collaborate with innovative minds and contribute to cutting-edge solutions. I have a strong interest in performance analysis and optimization, always striving to maximize the efficiency of the software I develop.
+I am always looking for challenges that allow me to collaborate with innovative teams and contribute to impactful technological solutions, with a focus on performance analysis and software optimization.
 
 <div align="center">
   <a href="https://github.com/snyper103">
